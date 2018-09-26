@@ -58,7 +58,7 @@ e719cb29ba18"],
 Cell[BoxData[
  RowBox[{
   RowBox[{
-  "BeginPackage", "[", "\"\<GeneralAuxilliary`PositionsHelper`\>\"", "]"}], 
+  "BeginPackage", "[", "\"\<PositionsHelper`\>\"", "]"}], 
   ";"}]], "Input",
  InitializationCell->True,
  CellChangeTimes->{{3.7453266831286736`*^9, 3.745326735266368*^9}, {
