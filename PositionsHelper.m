@@ -20,7 +20,7 @@
 
 
 (* ::Input::Initialization:: *)
-BeginPackage["GeneralAuxilliary`PositionsHelper`"];
+BeginPackage["PositionsHelper`"];
 
 
 (* ::Input::Initialization:: *)
